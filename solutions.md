@@ -33,10 +33,4 @@ Used google images and put the images of the bridge, fidn out that it was in Par
 **Target Image:** https://i.ibb.co/0FxmgTb/medium-chall.jpg
 
 **What I did:**
-Downloaded the image and ran exiftool but again no GPS data embedded. This one's tougher since it's marked as medium difficulty. Started by examining the architecture - what region does this look like? Checked the sun angle and shadows to estimate time of day and potentially hemisphere. Looking for any unique features like specific building styles, signs, or natural landmarks. Used Google Lens and reverse image search but being careful since sometimes these don't work on obscure locations. Might need to narrow down region first then zoom in on Google Earth.
-
-**Findings:**
-
-- GPS Coordinates: _(Still working on it)_
-- Confidence level: _(Low so far)_
-- Key identifiers: _Architecture style suggests X region, vegetation type, shadows pointing Y direction_
+By reading the city names on the road signs (Le Mans, Alençon, Caen, Mayenne, Évron), combining them with the A81 and the “gare” hint, then checking on a map where all those directions intersect, It is at Laval
